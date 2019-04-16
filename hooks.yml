@@ -1,0 +1,3 @@
+- identifier : 'chainkit:deploy'
+  path : 'lib'
+  function : 'run'

@@ -1,0 +1,3 @@
+- identifier : 'chainkit:serve'
+  path : 'lib'
+  function : 'run'
